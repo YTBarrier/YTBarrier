@@ -10,4 +10,4 @@ Here's a list of coding languages I know:
 5. JSON
 ## Projects
 ### [Evoarena](https://github.com/YTBarrier/evoarena) (1.0.0)
-Evoarena is an online video game about evolution and eliminating other players. 
+Evoarena is an online video game about evolution and eliminating other players. I will be accepting sponsorships when the first version is ready.
